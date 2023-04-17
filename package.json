@@ -1,0 +1,16 @@
+{
+  "name": "superhero",
+  "version": "1.0.0",
+  "description": "Create a super hero list app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Super",
+    "hero"
+  ],
+  "author": "Rahul Wadate",
+  "license": "ISC"
+}
