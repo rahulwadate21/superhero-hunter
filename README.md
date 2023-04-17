@@ -63,8 +63,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 ## 💻 Screens
 
 <p align="justify">
-<img src="https://imgtr.ee/images/2023/04/17/ysPcU.th.jpg">
-https://imgtr.ee/images/2023/04/17/ysPcU.th.jpg
+<img src="https://user-images.githubusercontent.com/76626529/163015606-4ecdde96-2bc1-4b3b-a539-45e03937646a.png">
 <img src="https://user-images.githubusercontent.com/76626529/163015610-e1542c39-41b6-4567-b7e6-8d0224a1df53.png">
 <img src="https://user-images.githubusercontent.com/76626529/163015612-ba319f0e-80dd-4d50-9a00-b8d23bbe4e80.png">
 <img src="https://user-images.githubusercontent.com/76626529/163015615-95de3e0f-1117-490f-acf1-17822a9d79d4.png">
